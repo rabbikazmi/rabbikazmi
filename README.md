@@ -1,5 +1,5 @@
 # 🪞 About Me:
-👋 hii, i’m @rabbikazmi<br>🦢 i’m interested in data science, writing research papers and web dev!<br>🌱 i’m currently learning java, python and ML models.<br>🎸 i’m looking to collaborate on solving various tech & real-world problems.<br>📫 how to reach me : @luvscroissant<br>🐇 pronouns: she/her<br>⚡ fun fact: outside of academics, i like reading mangas and graphic designing.
+👋 hii, i’m @rabbikazmi<br>🦢 i’m interested in data science, writing research papers and creating cool static web pages!<br>🌱 i’m currently learning java, python and ML models.<br>🎸 i’m looking to collaborate on solving various tech & real-world problems.<br>📫 how to reach me : @luvscroissant<br>🐇 pronouns: she/her<br>⚡ fun fact: outside of academics, i like reading mangas and graphic designing.
 
 
 ## 🌐 Socials:
