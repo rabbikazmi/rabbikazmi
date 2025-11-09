@@ -8,15 +8,5 @@
  pronouns: she/her<br>
  fun fact: outside of academics, i like reading mangas and graphic designing.
 </p>
-
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rabbikazmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=rabbikazmi&theme=dark&hide_border=false" alt="GitHub Streak" />
-<br/>
-<img src="https://github-contributor-stats.vercel.app/api?username=rabbikazmi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributor" />
-</p>
-
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
