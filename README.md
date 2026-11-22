@@ -15,4 +15,4 @@ if i discover something cool through a friend and end up obsessing over it for t
 
 pronouns: she/her
 
-\> i'd rather build and ship something small and real than talk about something big and theoretical
+\> i'd rather build and ship something small and real than talk about something big and theoretical.
