@@ -1,11 +1,20 @@
-<div align="center">
+# hi, i'm rabbika :)
 
-<p align="center">
- hii, i’m rabbika, a pre-final b.tech undergrad at igdtuw, delhi, india<br>
- i'm currently exploring and working on problems in ai safety, trustworthy ai, nlp, multimodal ai and ai engineering, along with reading academia stuff (research papers) and creating cool static web pages!<br>
- i also like niche stuff like system design, and other under-the-radar tech topics that don't get enough love :) <br>
- pronouns: she/her<br>
- fun fact: outside of academics, i like reading mangas and graphic designing.
-</p>
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+exploring things at the intersection of ai, research, and everything niche.
+
+i'm a pre-final year b.tech it undergrad at **igdtuw, delhi, india**, currently exploring problems in ai safety, trustworthy ai, nlp, multimodal ai, and ai engineering.
+
+i enjoy reading research papers, building things, experimenting with ideas, and making cool static web pages along the way.<br>
+
+\> currently interested in: ai safety · trustworthy ai · nlp · multimodal ai · research · ai engineering
+
+i have a soft spot for system design, underrated tech topics, obscure ideas, and things that make me go *"wait, that's actually interesting."* always down to discover something new, especially if it's niche enough that most people haven't stumbled upon it yet.
+
+i believe in **progress over perfection** (learning, building, getting things wrong, and figuring it out as i go) >:3
+
+outside tech, i enjoy reading mangas, graphic designing, reading substacks, and falling down random niche rabbit holes. bonus points 
+if i discover something cool through a friend and end up obsessing over it for the next few days >:D honestly, a lot of my favorite things come from people sharing things i would've never found on my own.<br>
+
+pronouns: she/her
+
+\> i'd rather build and ship something small and real than talk about something big and theoretical
