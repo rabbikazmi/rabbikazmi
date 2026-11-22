@@ -2,9 +2,7 @@
 
 exploring things at the intersection of ai, research, and everything niche.
 
-i'm a pre-final year b.tech it undergrad at **igdtuw, delhi, india**, currently exploring problems in ai safety, trustworthy ai, nlp, multimodal ai, and ai engineering.
-
-i enjoy reading research papers, building things, experimenting with ideas, and making cool static web pages along the way.<br>
+i'm a pre-final year b.tech it undergrad at igdtuw, delhi, india. i enjoy reading research papers, building things, experimenting with ideas, and making cool static web pages along the way.<br>
 
 \> currently interested in: ai safety · trustworthy ai · nlp · multimodal ai · research · ai engineering
 
